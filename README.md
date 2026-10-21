@@ -22,8 +22,8 @@ Football questions answered through models, notebooks, and visual analysis.
 | Repository | Focus |
 | :--- | :--- |
 | [fifa-wc](https://github.com/prithvi-kaizen/fifa-wc) | A Flask and Chart.js dashboard for historical and tactical World Cup analysis. |
-| [fifa-wc-analytics](https://github.com/prithvi-kaizen/fifa-wc-analytics) | An earlier historical World Cup dashboard with team comparisons and scoring trends. |
-| [football-plot](https://github.com/prithvi-kaizen/football-plot) | A Haaland/Understat CSV dataset for football plotting experiments. |
+| [fifa-wc-analytics](https://github.com/prithvi-kaizen/fifa-wc-analytics) | Archived earlier dashboard; continued in World Cup stories above. |
+| [Haaland shot data](https://github.com/prithvi-kaizen/FOOTBALL-DATA-ANALYSIS/tree/main/data/haaland) | Understat CSV snapshot consolidated from the archived football-plot repository, with provenance. |
 
 </details>
 
@@ -39,7 +39,7 @@ Tools with a specific job, from inspecting paper citations to comparing aerial i
 | **[Gita Advaita Bot](https://github.com/prithvi-kaizen/gita-advaita-bot)** | A domain-specific Llama application using MLX adapters and Bhagavad Gita / Advaita Vedanta material. |
 | **[Sentinel](https://github.com/prithvi-kaizen/Anti-Money-Laundering)** | A hackathon AML investigation prototype combining an LLM, rule-based guardrails, entity graphs, and audit trails. |
 | **[Hand Gesture Particles](https://github.com/prithvi-kaizen/hand-gesture-project)** | A Three.js particle system controlled with MediaPipe hand tracking. |
-| **[Mood Check-in](https://github.com/prithvi-kaizen/synchrony_hackathon)** | A Gemini and Supabase experiment in developer reflections and mood visualizations. |
+| **[Mood Check-in](https://github.com/prithvi-kaizen/synchrony_hackathon)** | Self-reported mood check-ins and trend charts, with optional text-based Gemini suggestions. |
 
 <details>
 <summary>Supporting software projects</summary>
@@ -50,12 +50,11 @@ Web and desktop projects supporting my application-building practice.
 | :--- | :--- |
 | [nsc-cc](https://github.com/prithvi-kaizen/nsc-cc) | Sports-club bookings, members, and administration in Next.js. |
 | [nscp-exercise-list](https://github.com/prithvi-kaizen/nscp-exercise-list) | A browser-based exercise library with anatomy and muscle-group views. |
-| [netaji-sports-club](https://github.com/prithvi-kaizen/netaji-sports-club) | An earlier static sports-club website. |
+| [netaji-sports-club](https://github.com/prithvi-kaizen/netaji-sports-club) | Archived earlier static site; the primary club application is nsc-cc above. |
 | [web-tech-final-project](https://github.com/prithvi-kaizen/web-tech-final-project) | A job portal for candidates, employers, and administrators. |
-| [job-portal](https://github.com/prithvi-kaizen/job-portal) | A separate React / Express job-board implementation. |
+| [job-portal](https://github.com/prithvi-kaizen/job-portal) | Archived React / Express job board; web-tech-final-project is the primary portal. |
 | [career-portfolio-tracker](https://github.com/prithvi-kaizen/career-portfolio-tracker) | Tracking internships, skills, and certifications. |
 | [PlantCareManager](https://github.com/prithvi-kaizen/PlantCareManager) | A team Java Swing project for plant-care schedules and watering logs. |
-| [web-tech-05](https://github.com/prithvi-kaizen/web-tech-05) | A JSP student-details form assignment. |
 | [portfolio](https://github.com/prithvi-kaizen/portfolio) | My React portfolio website. |
 
 </details>
@@ -76,7 +75,6 @@ Implementations, comparisons, and notes on what models learn and where they fall
 
 | Repository | Focus |
 | :--- | :--- |
-| [Candy_Detection_YOLO11s](https://github.com/prithvi-kaizen/Candy_Detection_YOLO11s) | An early Colab candy-detection experiment using Ultralytics. |
 | [ai-agents-for-beginners](https://github.com/prithvi-kaizen/ai-agents-for-beginners) | My fork of Microsoft's introductory AI agents course. |
 
 </details>
